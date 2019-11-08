@@ -4,5 +4,3 @@
 ![image](https://github.com/liuzb13/shopping-page/blob/master/letaoDetail.PNG)
 ![image](https://github.com/liuzb13/shopping-page/blob/master/letaoMainpage.PNG)
 
-！[image]（https://github.com/liuzb13/shopping-page/blob/master/letaoDetail.PNG）
-！[image] （https://github.com/liuzb13/shopping-page/blob/master/letaoMainpage.PNG）
